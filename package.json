@@ -14,5 +14,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/khalifenizar/javascripting-solutions.git"
+  },
+  "scripts": {
+    "help": "npm start -- help",
+    "print": "npm start -- print",
+    "run": "npm start -- run",
+    "start": "javascripting",
+    "verify": "npm start -- verify"
   }
 }
