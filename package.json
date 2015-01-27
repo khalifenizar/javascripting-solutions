@@ -1,0 +1,15 @@
+{
+  "name": "javascripting-solutions",
+  "description": "My exercise solutions for javascripting, a terminal workshop that is part of the NodeSchool family.",
+  "version": "1.0.0",
+  "author": "Nizar Khalife Iglesias <khalifenizar@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/khalifenizar/javascripting-solutions/issues"
+  },
+  "homepage": "https://github.com/khalifenizar/javascripting-solutions",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khalifenizar/javascripting-solutions.git"
+  }
+}
