@@ -6,6 +6,9 @@
   "bugs": {
     "url": "https://github.com/khalifenizar/javascripting-solutions/issues"
   },
+  "dependencies": {
+    "javascripting": "^1.10.1"
+  },
   "homepage": "https://github.com/khalifenizar/javascripting-solutions",
   "license": "ISC",
   "repository": {
